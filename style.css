@@ -66,3 +66,8 @@ button {
 button:hover {
   opacity: 0.8;
 }
+.invisible {
+  visibility: hidden;
+  display: none;
+  pointer-events: none;
+}
